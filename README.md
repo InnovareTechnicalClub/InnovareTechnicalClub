@@ -1,4 +1,4 @@
-<img src="assets/Banner.png" width="80"/> 
+<img src="Purple Futuristic Virtual Technology Banner.png" style="width:100%; height:250px; object-fit:contain;" />
 <h1 align="center">
   Innovare Technical Club
 </h1>
